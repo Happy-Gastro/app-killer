@@ -1,0 +1,18 @@
+{
+  "name": "@happy-gastro/app-killer",
+  "version": "1.0.0",
+  "private": false,
+  "author": "Ferenc Farkas <ferenc.farkas@happygastro.hu>",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "peerDependencies": {
+    "react-native": ">=0.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Happy-Gastro/version-manager.git"
+  }
+}

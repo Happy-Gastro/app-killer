@@ -1,7 +1,7 @@
 {
   "name": "@happy-gastro/app-killer",
   "description": "This lightweight module provides an easy-to-use method to fully terminate a React Native Android application. It is particularly useful in scenarios where you need to explicitly close the app, rather than just putting it into the background.",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "private": false,
   "author": "Ferenc Farkas <ferenc.farkas@happygastro.hu>",
   "license": "MIT",

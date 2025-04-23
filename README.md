@@ -18,6 +18,8 @@ yarn add @happy-gastro/app-killer --save
 
 ## ⚙️ Android Setup
 
+This package has auto-linking for Android 0.60+. If you are using an older version, please install it manually as shown below:
+
 Add the native package to your `MainApplication.java`:
 
 ```java
